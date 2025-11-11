@@ -85,7 +85,8 @@ void searchByBranch(const vector<string>& deeds, const vector<string>& branches)
 #### **3.6 Search by Branch**
 
 ## **Tips**
-
+* Starter code has been provided: 'heroicDeeds.cpp'
+  * You may use this template to get started.
 * Implement **one function at a time** and test it.
 * Use **meaningful names** for veterans’ branches.
 * Always check for **empty vectors** before looping.
